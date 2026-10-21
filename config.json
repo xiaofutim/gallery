@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Mason's Photo Gallery",
+  "title": "Tim's Photo Gallery",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "classic",
   "css": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Copyright belongs to the undersigned",
   "usage-stats": false
 }

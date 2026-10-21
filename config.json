@@ -6,7 +6,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "classic",
+  "theme": "mosaic",
   "css": "./custom.css",
   "footer": "Copyright belongs to the undersigned",
   "usage-stats": false
